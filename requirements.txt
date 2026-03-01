@@ -1,0 +1,14 @@
+# Core dependencies from pyproject.toml (install with: pip install -r requirements.txt)
+pandas>=2.0.3
+numpy>=1.24.3
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+pyyaml>=6.0.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pandasai>=3.0.0
+pandasai-litellm>=0.0.1
+python-dotenv>=1.0.0
+pandasai-sql>=0.1.7
